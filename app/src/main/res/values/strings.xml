@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PayTab</string>
+
+    <string-array name="currencies">
+        <item>BHD</item>
+        <item>USD</item>
+        <item>SAR</item>
+        <item>KWD</item>
+        <item>OMR</item>
+        <item>EGP</item>
+        <item>AED</item>
+        <item>INR</item>
+        <item>INR</item>
+
+    </string-array>
+</resources>
